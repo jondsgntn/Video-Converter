@@ -9,6 +9,9 @@ Take original .mov files and place them in `mov/` directory.
 Before running the script, run these commands:
 
 `gem install streamio-ffmpeg`
+
+and
+
 `gem install ruby-progressbar`
 
 Once dependencies are installed and .mov files are in the correct directory, run:
