@@ -14,6 +14,6 @@ and
 
 `gem install ruby-progressbar`
 
-Once dependencies are installed and .mov files are in the correct directory, run:
+Once dependencies are installed and .mov files are in the correct directory, make sure you're in the project's root directory and run:
 
 `ruby script.rb`
