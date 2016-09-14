@@ -2,7 +2,7 @@
 
 Simple Ruby script for mass converting `.mov` files to web optimized `.mp4` and `.webm` files
 
-Make sure `mov/`, `mp4/`, and `web/` directories all exist.
+Make sure `mov/`, `mp4/`, and `webm/` directories all exist.
 
 Take original .mov files and place them in `mov/` directory.
 
